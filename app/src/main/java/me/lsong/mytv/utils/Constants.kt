@@ -13,7 +13,7 @@ object Constants {
      * IPTV源地址
      *
      */
-    const val IPTV_SOURCE_URL = "http://lsong.one:8888/IPTV.m3u"
+    const val IPTV_SOURCE_URL = "https://live.zbds.top/tv/iptv6.m3u"
     // http://lsong.one:8888/IPTV.m3u
     // https://live.fanmingming.com/tv/m3u/index.m3u
     // https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
