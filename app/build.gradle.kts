@@ -20,7 +20,7 @@ android {
 
     defaultConfig {
         applicationId = "me.lsong.mytv"
-        minSdk = 31
+        minSdk = 30
         targetSdk = 34
         versionCode = 4
         versionName = "1.0.$versionCode"
